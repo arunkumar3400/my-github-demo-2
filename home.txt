@@ -1,1 +1,2 @@
 Homepage UI WIP
+Header markup added
